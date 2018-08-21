@@ -1,1 +1,1 @@
-# mask-rcnn-resnet50-ver-01.a
+# Crf as rnn for nuclei segmentation
